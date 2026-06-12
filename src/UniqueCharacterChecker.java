@@ -1,3 +1,5 @@
+import java.util.HashSet;
+
 /**
  * The UniqueCharacterChecker class provides a method to check if all characters
  * in a given word are unique.
